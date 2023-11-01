@@ -2,6 +2,7 @@
 👨‍⚖️EMBER.JS É UM FRAMEWORK DE JAVASCRIPT DE CÓDIGO ABERTO USADO PARA CRIAR APLICATIVOS DA WEB ESCALÁVEIS E AMBICIOSOS. ELE SEGUE A ARQUITETURA MVC (MODEL-VIEW-CONTROLLER) E OFERECE UMA SÉRIE DE RECURSOS E CONVENÇÕES PARA FACILITAR O DESENVOLVIMENTO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=EmberJS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://guides.emberjs.com/release/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo&si=-ThxGf8q39LVDmrt)
