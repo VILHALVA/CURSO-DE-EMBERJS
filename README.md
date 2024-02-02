@@ -1,12 +1,9 @@
 # CURSO DE EMBER.JS
 👨‍⚖️EMBER.JS É UM FRAMEWORK DE JAVASCRIPT DE CÓDIGO ABERTO USADO PARA CRIAR APLICATIVOS DA WEB ESCALÁVEIS E AMBICIOSOS. ELE SEGUE A ARQUITETURA MVC (MODEL-VIEW-CONTROLLER) E OFERECE UMA SÉRIE DE RECURSOS E CONVENÇÕES PARA FACILITAR O DESENVOLVIMENTO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://guides.emberjs.com/release/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo&si=-ThxGf8q39LVDmrt)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 O Ember.js é um framework de código aberto para a construção de aplicativos web interativos e ambiciosos (ambitious web applications). Ele é baseado no padrão de arquitetura Model-View-Controller (MVC) e fornece estruturas e convenções sólidas para desenvolvedores web. Aqui estão alguns dos principais conceitos relacionados ao Ember.js:
 
 1. **Model**: Os modelos no Ember.js representam os dados subjacentes à sua aplicação. Eles são responsáveis por recuperar, atualizar e armazenar informações do servidor ou de outras fontes de dados.
@@ -27,8 +24,8 @@ O Ember.js é um framework de código aberto para a construção de aplicativos 
 
 A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece convenções que simplificam o desenvolvimento, tornando as decisões de arquitetura mais fáceis. É importante seguir essas convenções para obter o máximo benefício do framework.
 
-# CARACTERISTICAS:
-## Características Positivas:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Convenções Fortes**: O Ember.js segue convenções fortes, o que significa que fornece um conjunto de melhores práticas e padrões predefinidos. Isso facilita o desenvolvimento e torna o código mais consistente entre projetos e desenvolvedores.
 
 2. **Arquitetura Sólida**: O framework segue o padrão de arquitetura Model-View-Controller (MVC) de forma clara e consistente. Isso ajuda a manter a aplicação organizada e escalável.
@@ -41,7 +38,7 @@ A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece 
 
 6. **Atenção à Atualização de Versões**: A equipe de desenvolvimento do Ember.js presta atenção à retrocompatibilidade, o que torna as atualizações de versões menos dolorosas em comparação com outros frameworks.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Curva de Aprendizado**: Para iniciantes, o Ember.js pode ter uma curva de aprendizado mais íngreme devido à quantidade de convenções e complexidade do framework.
 
 2. **Tamanho da Aplicação**: Aplicações Ember tendem a ser maiores em tamanho quando comparadas a algumas alternativas, o que pode impactar o tempo de carregamento e desempenho em dispositivos móveis.
@@ -53,3 +50,9 @@ A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece 
 5. **Documentação e Comunidade Menos Populares**: Embora tenha uma comunidade ativa, o Ember.js é menos popular do que alguns outros frameworks, o que pode resultar em menos recursos e documentação disponíveis.
 
 Em resumo, o Ember.js é uma escolha sólida para desenvolvedores que preferem estruturas bem definidas e que não se importam com a curva de aprendizado inicial. No entanto, pode não ser a melhor opção para projetos menores ou para desenvolvedores que desejam uma abordagem mais flexível. A escolha de um framework depende muito das necessidades específicas do projeto e da preferência do desenvolvedor.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "SHAWN C"](https://youtube.com/playlist?list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo&si=-ThxGf8q39LVDmrt)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://guides.emberjs.com/release/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
