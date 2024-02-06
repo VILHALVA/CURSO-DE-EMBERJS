@@ -24,6 +24,31 @@ O Ember.js é um framework de código aberto para a construção de aplicativos 
 
 A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece convenções que simplificam o desenvolvimento, tornando as decisões de arquitetura mais fáceis. É importante seguir essas convenções para obter o máximo benefício do framework.
 
+## SUA HISTÓRIA:
+1. **Origens (2011)**:
+   - O Ember.js foi criado por Yehuda Katz, um desenvolvedor de software e contribuidor proeminente para a comunidade JavaScript.
+   - O desenvolvimento do Ember.js começou em 2011 como um fork do framework SproutCore, com o objetivo de simplificar e modernizar seu modelo de desenvolvimento.
+
+2. **Lançamento Público (2011)**:
+   - Em dezembro de 2011, o Ember.js foi lançado publicamente como um projeto de código aberto no GitHub.
+   - O framework rapidamente ganhou popularidade entre os desenvolvedores devido à sua arquitetura robusta, conceitos bem definidos e suporte a desenvolvimento de aplicativos da web de grande escala.
+
+3. **Filosofia e Princípios**:
+   - O Ember.js foi projetado com base em uma série de princípios orientadores, incluindo "convenções sobre configurações", "não se repita" (DRY), "menos código é melhor" e "opinião forte, implementação fraca".
+   - Esses princípios visam maximizar a produtividade dos desenvolvedores e a consistência do código em projetos Ember.
+
+4. **Rápida Adoção (2012-2014)**:
+   - Nos anos seguintes ao seu lançamento, o Ember.js ganhou rapidamente popularidade entre a comunidade de desenvolvedores.
+   - Empresas como LinkedIn, Netflix, Discourse e Square adotaram o Ember.js para desenvolver aplicativos da web complexos e de alto desempenho.
+
+5. **Lançamentos e Evolução**:
+   - O Ember.js passou por vários lançamentos desde seu lançamento inicial, com novos recursos, melhorias de desempenho e correções de bugs sendo introduzidos regularmente.
+   - A equipe de desenvolvimento mantém uma política de versões estáveis e previsíveis, facilitando a adoção e a atualização do framework.
+
+6. **Ecossistema de Ferramentas e Plugins**:
+   - O Ember.js possui um ecossistema vibrante de ferramentas, plugins e extensões criadas pela comunidade.
+   - Isso inclui ferramentas de desenvolvimento, como Ember CLI, Ember Inspector e Ember Data, bem como uma variedade de plugins para adicionar funcionalidades específicas aos aplicativos Ember.
+
 ## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Convenções Fortes**: O Ember.js segue convenções fortes, o que significa que fornece um conjunto de melhores práticas e padrões predefinidos. Isso facilita o desenvolvimento e torna o código mais consistente entre projetos e desenvolvedores.
@@ -49,10 +74,9 @@ A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece 
 
 5. **Documentação e Comunidade Menos Populares**: Embora tenha uma comunidade ativa, o Ember.js é menos popular do que alguns outros frameworks, o que pode resultar em menos recursos e documentação disponíveis.
 
-Em resumo, o Ember.js é uma escolha sólida para desenvolvedores que preferem estruturas bem definidas e que não se importam com a curva de aprendizado inicial. No entanto, pode não ser a melhor opção para projetos menores ou para desenvolvedores que desejam uma abordagem mais flexível. A escolha de um framework depende muito das necessidades específicas do projeto e da preferência do desenvolvedor.
-
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "SHAWN C"](https://youtube.com/playlist?list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo&si=-ThxGf8q39LVDmrt)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://guides.emberjs.com/release/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+- [VEJA A SINTAXE](./SINTAXE.md)
