@@ -1,4 +1,46 @@
 # SINTAXE
+## CRIANDO UM PROJETO:
+Criar um projeto no Ember.js é um processo simples, assim como no Angular. Aqui está um guia passo a passo para ajudá-lo a começar:
+
+### Passo 1: Instalar o Ember CLI (Command Line Interface)
+Certifique-se de ter o Ember CLI instalado globalmente em sua máquina. Você pode instalar usando o npm (Node Package Manager) através do seguinte comando:
+
+```
+npm install -g ember-cli
+```
+
+### Passo 2: Criar um novo projeto Ember
+Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executando o seguinte comando no terminal:
+
+```
+ember new nome-do-projeto
+```
+
+Substitua "nome-do-projeto" pelo nome que você deseja dar ao seu projeto.
+
+### Passo 3: Navegar para o diretório do projeto
+Após a criação do projeto, navegue até o diretório do projeto usando o comando `cd`:
+
+```
+cd nome-do-projeto
+```
+
+### Passo 4: Executar o projeto
+Depois de estar no diretório do seu projeto, você pode iniciar o servidor de desenvolvimento executando:
+
+```
+ember serve
+```
+
+Isso iniciará um servidor de desenvolvimento e seu aplicativo estará acessível em `http://localhost:4200/` por padrão.
+
+### Passo 5: Visualizar o projeto
+Abra seu navegador da web e vá para `http://localhost:4200/` para visualizar seu novo aplicativo Ember.
+
+### Passo 6: Começar a desenvolver
+Agora você pode começar a desenvolver seu projeto Ember. O Ember CLI já gerou a estrutura básica do projeto para você. Você pode adicionar componentes, rotas, modelos e muito mais conforme necessário para o seu aplicativo.
+
+## EXEMPLOS DE CÓDIGOS:
 Abaixo está um exemplo básico de um aplicativo Ember.js que exibe uma lista de tarefas (to-do list) e permite adicionar novas tarefas:
 
 1. **HTML (index.html)**:
