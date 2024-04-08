@@ -121,3 +121,54 @@ TodosView.create({ controller: todosController }).appendTo('#todo-list');
    - Instanciamos o controlador e definimos uma visualização `TodosView` para renderizar a lista de tarefas usando Handlebars.js.
    - Por fim, renderizamos a visualização na página, exibindo todas as tarefas existentes e permitindo adicionar novas tarefas.
 
+## DIRETÓRIOS:
+No Ember.js, a estrutura de diretórios é geralmente organizada de acordo com as convenções e padrões estabelecidos pelo próprio framework. Embora possa haver alguma flexibilidade para personalizar essa estrutura, é recomendado seguir as convenções padrão do Ember.js para manter a consistência e facilitar a colaboração entre os desenvolvedores. Aqui está uma visão geral da estrutura de diretórios típica de um projeto Ember.js:
+
+```
+meu_projeto/
+│
+├── app/                      # Pasta principal do aplicativo Ember
+│   ├── components/           # Componentes reutilizáveis
+│   ├── controllers/          # Controladores para gerenciar a lógica da aplicação
+│   ├── helpers/              # Helpers personalizados
+│   ├── models/               # Modelos de dados do aplicativo
+│   ├── routes/               # Rotas do aplicativo Ember
+│   ├── styles/               # Estilos CSS, SCSS, ou LESS
+│   ├── templates/            # Templates Handlebars para renderização de views
+│   └── app.js                # Ponto de entrada do aplicativo Ember
+│
+├── public/                   # Recursos públicos como imagens, arquivos de índice, etc.
+│
+├── tests/                    # Pasta para testes
+│   ├── acceptance/           # Testes de aceitação usando QUnit
+│   ├── helpers/              # Helpers de teste personalizados
+│   ├── integration/          # Testes de integração
+│   ├── unit/                 # Testes unitários
+│   └── test-helper.js        # Configuração de teste global
+│
+├── vendor/                   # Bibliotecas de terceiros
+│
+├── config/                   # Configurações do aplicativo
+│   ├── environment.js        # Configurações de ambiente
+│   └── router.js             # Definição de rotas
+│
+├── node_modules/             # Dependências do Node.js (gerenciadas pelo npm)
+│
+├── .gitignore                # Arquivo de configuração do Git para ignorar arquivos/diretórios
+├── package.json              # Metadados e dependências do projeto (npm)
+├── ember-cli-build.js        # Configuração do Ember CLI Build
+└── README.md                 # Documentação principal do projeto
+```
+
+Nesta estrutura:
+
+- `app/` contém todos os arquivos relacionados ao código-fonte do aplicativo Ember.js, como componentes, controladores, rotas, modelos, templates, etc.
+- `public/` é onde os recursos estáticos, como imagens ou arquivos de índice, são armazenados.
+- `tests/` contém os testes para o aplicativo, incluindo testes de aceitação, testes de integração e testes unitários.
+- `vendor/` é onde você pode incluir bibliotecas de terceiros que não são instaladas via npm.
+- `config/` contém arquivos de configuração, como configurações de ambiente e definições de roteamento.
+- `node_modules/` é onde as dependências do Node.js são instaladas (gerenciadas pelo npm).
+- `.gitignore` especifica quais arquivos e pastas devem ser ignorados pelo Git.
+- `package.json` contém metadados e dependências do projeto (gerenciadas pelo npm).
+- `ember-cli-build.js` é o arquivo de configuração do Ember CLI Build, usado para personalizar o processo de construção do aplicativo.
+
