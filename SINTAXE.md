@@ -12,9 +12,17 @@ npm install -g ember-cli
 ### Passo 2: Criar um novo projeto Ember
 Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executando o seguinte comando no terminal:
 
-```
-ember new nome-do-projeto
-```
+    1. Em JavaScript:
+
+    ```
+    ember new meu-projeto
+    ```
+
+    2. Em TypeScript:
+
+    ```
+    ember new meu-projeto --lang=ts
+    ```
 
 Substitua "nome-do-projeto" pelo nome que você deseja dar ao seu projeto.
 
