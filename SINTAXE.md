@@ -14,15 +14,16 @@ Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executand
 
 1. Em JavaScript:
     ```
-    ember new meu-projeto
+    ember new meu-projeto --skip-git
     ```
 
 2. Em TypeScript:
     ```
-    ember new meu-projeto --lang=ts
+    ember new meu-projeto --lang=ts --skip-git
     ```
 
-Substitua "meu-projeto" pelo nome que você deseja dar ao seu projeto.
+- Com essa opção `--skip-git`, o Ember CLI não criará um repositório Git dentro do seu projeto Ember.js, e a pasta .git não será criada.
+- Substitua "meu-projeto" pelo nome que você deseja dar ao seu projeto.
 
 ### Passo 3: Navegar para o diretório do projeto
 Após a criação do projeto, navegue até o diretório do projeto usando o comando `cd`:
