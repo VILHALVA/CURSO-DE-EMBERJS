@@ -28,7 +28,7 @@ Substitua "meu-projeto" pelo nome que você deseja dar ao seu projeto.
 Após a criação do projeto, navegue até o diretório do projeto usando o comando `cd`:
 
 ```
-cd nome-do-projeto
+cd meu-projeto
 ```
 
 ### Passo 4: Executar o projeto
