@@ -22,7 +22,7 @@ Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executand
     ember new meu-projeto --lang=ts
     ```
 
-Substitua "nome-do-projeto" pelo nome que você deseja dar ao seu projeto.
+Substitua "meu-projeto" pelo nome que você deseja dar ao seu projeto.
 
 ### Passo 3: Navegar para o diretório do projeto
 Após a criação do projeto, navegue até o diretório do projeto usando o comando `cd`:
