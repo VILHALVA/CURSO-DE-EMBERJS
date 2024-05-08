@@ -1,4 +1,4 @@
-# SINTAXE
+# MANUAL
 ## CRIANDO UM PROJETO:
 Criar um projeto no Ember.js é um processo simples, assim como no Angular. Aqui está um guia passo a passo para ajudá-lo a começar:
 
@@ -36,7 +36,7 @@ cd meu-projeto
 Depois de estar no diretório do seu projeto, você pode iniciar o servidor de desenvolvimento executando:
 
 ```
-ember serve
+npm start
 ```
 
 Isso iniciará um servidor de desenvolvimento e seu aplicativo estará acessível em `http://localhost:4200/` por padrão.
