@@ -1,15 +1,14 @@
 # MANUAL
-## CRIANDO UM PROJETO:
-Criar um projeto no Ember.js é um processo simples, assim como no Angular. Aqui está um guia passo a passo para ajudá-lo a começar:
-
-### Passo 1: Instalar o Ember CLI (Command Line Interface)
+## EMBER GLOBAL:
+### CRIANDO UM PROJETO:
+#### PASSO 1: INSTALAR O EMBER CLI:
 Certifique-se de ter o Ember CLI instalado globalmente em sua máquina. Você pode instalar usando o npm (Node Package Manager) através do seguinte comando:
 
 ```
 npm install -g ember-cli
 ```
 
-### Passo 2: Criar um novo projeto Ember
+#### PASSO 2: CRIAR UM NOVO PROJETO:
 Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executando o seguinte comando no terminal:
 
 1. Em JavaScript:
@@ -25,14 +24,35 @@ Depois de instalar o Ember CLI, você pode criar um novo projeto Ember executand
 - Com essa opção `--skip-git`, o Ember CLI não criará um repositório Git dentro do seu projeto Ember.js, e a pasta .git não será criada.
 - Substitua "meu-projeto" pelo nome que você deseja dar ao seu projeto.
 
-### Passo 3: Navegar para o diretório do projeto
+## EMBER LOCAL:
+### CRIANDO UM PROJETO:
+Você pode criar um novo projeto Ember localmente executando o seguinte comando no terminal:
+
+1. Em JavaScript:
+    ```
+    npx ember new meu-projeto --skip-git
+    ```
+
+2. Em TypeScript:
+    ```
+    npx ember new meu-projeto --lang=ts --skip-git
+    ```
+
+- Esse comando irá:
+
+    1. Verificar se o Ember CLI está instalado localmente no diretório do projeto. Se não estiver, ele será baixado automaticamente para uso temporário.
+    2. Criar um novo projeto Ember com o nome `meu-projeto` e pulando a inicialização do Git (`--skip-git`).
+
+- Essa é a maneira preferida de criar um novo projeto Ember usando o Ember CLI, pois não requer a instalação global do Ember CLI e garante que você está usando a versão correta do Ember CLI para o projeto específico.
+
+## NAVEGAR PARA O DIRETÓRIO DO PROJETO:
 Após a criação do projeto, navegue até o diretório do projeto usando o comando `cd`:
 
 ```
 cd meu-projeto
 ```
 
-### Passo 4: Executar o projeto
+## EXECUTAR O PROJETO:
 Depois de estar no diretório do seu projeto, você pode iniciar o servidor de desenvolvimento executando:
 
 ```
@@ -41,10 +61,10 @@ npm start
 
 Isso iniciará um servidor de desenvolvimento e seu aplicativo estará acessível em `http://localhost:4200/` por padrão.
 
-### Passo 5: Visualizar o projeto
+## VIZUALIZAR O PROJETO:
 Abra seu navegador da web e vá para `http://localhost:4200/` para visualizar seu novo aplicativo Ember.
 
-### Passo 6: Começar a desenvolver
+## COMEÇAR A DESENVOLVER:
 Agora você pode começar a desenvolver seu projeto Ember. O Ember CLI já gerou a estrutura básica do projeto para você. Você pode adicionar componentes, rotas, modelos e muito mais conforme necessário para o seu aplicativo.
 
 ## EXEMPLOS DE CÓDIGOS:
