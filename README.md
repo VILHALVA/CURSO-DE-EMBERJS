@@ -79,5 +79,6 @@ A estrutura do Ember.js é altamente opinativa, o que significa que ele fornece 
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://guides.emberjs.com/release/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+- [TECNOLOGIA](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:EMBERJS)
